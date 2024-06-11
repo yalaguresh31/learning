@@ -1,0 +1,6 @@
+hi
+hello
+text 
+good
+ok
+bye
